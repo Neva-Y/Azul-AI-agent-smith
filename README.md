@@ -73,5 +73,3 @@ A few options that are commonly used:
 * `-s`: save the game replay
 * `-l`: save the log
 <!-- * `--half-scale`: scales the window to half size. -->
-
-Have a look at other options to see how to run the game without the GUI, how to change names, and how to run multiple games.
