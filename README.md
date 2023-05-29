@@ -12,6 +12,8 @@
     <img src="img/Performance.png" alt="Performance in the competition" width="900">
  </p>
 
+Completed with first place on the leaderboard with a total of 101 teams competing ✨ 
+
 ## Getting Started
 
 **Make sure the version of Python used is >= 3.8, and that you have installed the following packages:**
