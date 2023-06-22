@@ -14,6 +14,9 @@ Completed the ranking tournament with first place on the leaderboard against a t
     <img src="img/Performance.png" alt="Performance in the competition" width="900">
  </p>
 
+# Youtube presentation
+
+[![Azul Agent Smith Video](https://img.youtube.com/vi/0QYIOusiV_w/maxresdefault.jpg)](https://youtu.be/0QYIOusiV_w)
 
 ## Getting Started
 
