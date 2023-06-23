@@ -11,7 +11,7 @@
 Completed the ranking tournament with first place on the leaderboard against a total of 101 competing teams ✨ 
 
 <p align="center"> 
-    <img src="img/Performance.png" alt="Performance in the competition" width="900">
+    <img src="img/Competition.png" alt="Performance in the competition" width="900">
  </p>
 
 # Youtube presentation
