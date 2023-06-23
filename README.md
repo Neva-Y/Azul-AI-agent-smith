@@ -4,7 +4,7 @@
     <img src="img/azul.jpg" alt="Picture of Azul board" width="400">
  </p>
 
- **[Azul](https://www.ultraboardgames.com/azul/game-rules.php)** can be understood as a deterministic, two-player game. Understanding the results and different strategies is important for designing a good agent for this project. The game frame is forked from [Michelle Blom](https://github.com/michelleblom)'s repository with the GUI developed by [Guang Hu](https://github.com/guanghuhappysf128) and  [Ruihan Zhang](https://github.com/zhangrh93).
+ **[Azul](https://www.ultraboardgames.com/azul/game-rules.php)** can be understood as a deterministic, two-player game. Understanding the results and different strategies is important for designing a good agent for this project. The game frame is forked from [Michelle Blom](https://github.com/michelleblom)'s repository with the GUI developed by [Guang Hu](https://github.com/guanghuhappysf128) and  [Ruihan Zhang](https://github.com/zhangrh93). This Azul simulator is not included in the repo.
  
 ## Agent Smith Performance 
 
