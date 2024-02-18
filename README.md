@@ -16,7 +16,7 @@ Completed the preliminary and final ranking tournament with first place on the l
 
 # Youtube presentation
 
-[![Azul Agent Smith Video](https://img.youtube.com/vi/0QYIOusiV_w/maxresdefault.jpg)](https://youtu.be/0QYIOusiV_w)
+[![Azul Agent Smith MCTS Video]([https://img.youtube.com/vi/0QYIOusiV_w/maxresdefault.jpg)](https://youtu.be/0QYIOusiV_w](https://youtu.be/_LE0bZDOiRg?si=Un3GO-iSK1WMhiEr&t=181))
 
 ## Getting Started
 
